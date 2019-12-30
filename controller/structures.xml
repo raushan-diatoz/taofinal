@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE structures SYSTEM "../doc/structures.dtd">
+<structures>
+	<structure id="taofinal_main" name="proctoring" level="15" group="main">
+		<description />
+		<sections>
+			<section id="taofinal_main" name="proctoring" url="/taofinal/Taofinal/index" />
+			<section id="taofinal_other" name="Template" url="/taofinal/Taofinal/templateExample" />
+		</sections>
+	</structure>
+</structures>
